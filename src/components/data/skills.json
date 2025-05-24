@@ -1,0 +1,36 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "tailwind CSS",
+    "imageSrc": "skills/tailwindimg.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+   {
+    "title": "expressJs",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "mongoDB",
+    "imageSrc": "skills/mongodb.png"
+  }
+ 
+  
+]
