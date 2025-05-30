@@ -12,7 +12,7 @@
     "title": "flavoro App",
     "imageSrc": "https://www.shutterstock.com/shutterstock/photos/2499828119/display_1500/stock-photo-set-of-all-indian-desi-foods-top-view-asian-cuisines-set-top-view-all-indian-traditional-foods-2499828119.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "flavoro-app-three.vercel.app",
+    "demo": "https://flavoro-app-three.vercel.app/",
     "source": "https://github.com/ayushpathak52/flavoroApp"
   }
   
