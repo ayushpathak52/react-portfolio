@@ -9,11 +9,11 @@
   },
   {
     "key": 2,
-    "title": "MERN Blogging",
-    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "title": "flavoro App",
+    "imageSrc": "https://www.shutterstock.com/shutterstock/photos/2499828119/display_1500/stock-photo-set-of-all-indian-desi-foods-top-view-asian-cuisines-set-top-view-all-indian-traditional-foods-2499828119.jpg",
     "description": "This is a project made with complete React js.",
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "flavoro-app-three.vercel.app",
+    "source": "https://github.com/ayushpathak52/flavoroApp"
   }
   
 ]
